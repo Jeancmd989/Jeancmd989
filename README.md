@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**Jeancmd989/Jeancmd989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jean Paul, an Information Systems Engineering student passionate about web development and cybersecurity.  
+I enjoy building efficient and secure applications while continuously learning modern technologies.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- **Languages:** Python, Java, C++, C#  
+- **Frameworks:** Spring Boot, Angular  
+- **Web:** HTML, CSS, JavaScript, TypeScript  
+- **Databases:** SQL, PostgreSQL  
+- **Cloud:** AWS, Azure, Google Cloud  
+- **Cybersecurity:** Pentesting, Ethical Hacking  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 About Me
+- Proactive and fast learner  
+- Interested in full-stack development and security  
+- Always improving my skills through projects  
+
+### ✨ Fun Fact
+I like green tea and creating solutions that make life easier and safer.
