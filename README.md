@@ -17,4 +17,4 @@ I enjoy building efficient and secure applications while continuously learning m
 - Always improving my skills through projects  
 
 ### ✨ Fun Fact
-I like green tea and creating solutions that make life easier and safer.
+- **I like green tea and creating solutions that make life easier and safer.
