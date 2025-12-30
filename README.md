@@ -55,5 +55,7 @@ Estudiante de 7mo ciclo enfocado  en el desarrollo de aplicaciones web escalable
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Bizagi Modeler](https://img.shields.io/badge/Bizagi_Modeler-52BC66?style=for-the-badge&logo=bizagi&logoColor=white)
+
 
 
