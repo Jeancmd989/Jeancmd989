@@ -9,10 +9,7 @@
 
 ## Sobre mí
 
-Estudiante de 6to ciclo enfocado  en el desarrollo de aplicaciones web escalables. Me especializo en arquitecturas backend con Spring Boot y desarrollo frontend con Angular, aplicando metodologías ágiles y buenas prácticas de código.
-
-**Actualmente:** Buscando oportunidades de prácticas pre-profesionales  
-**Enfoque:** Desarrollo Full-Stack, Arquitectura de Software
+Estudiante de Ingeniería de Sistemas de Información (7mo ciclo) con enfoque en análisis de datos, automatización de reportería y desarrollo de aplicaciones web. Experiencia con SQL, Python, Power BI y arquitecturas backend con Spring Boot. Aplicando metodologías ágiles y buenas prácticas en proyectos académicos. Actualmente buscando prácticas preprofesionales en Operaciones o Análisis de Datos.
 
 ---
 
