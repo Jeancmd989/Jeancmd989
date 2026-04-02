@@ -56,5 +56,8 @@ Estudiante de Ingeniería de Sistemas de Información (7mo ciclo) con enfoque en
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Bizagi Modeler](https://img.shields.io/badge/Bizagi_Modeler-52BC66?style=for-the-badge&logo=bizagi&logoColor=white)
 
+### Análisis de Datos
+Power BI | Excel (intermedio) | Pandas (básico)
+
 
 
